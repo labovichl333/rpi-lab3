@@ -1,0 +1,28 @@
+
+{
+    "navbar": {
+        "poets": "Poets",
+        "desc": "Site Description",
+        "daily": "Poet of the Day",
+        "devs": "Developers"
+    },
+
+    "landing": {
+        "label": "Honored Workers of Belarusian Culture",
+        "title": "Best Belarusian poets",
+        "button": "Poets list",
+        "poetLink": "Poet page",
+        "poetOfTheDay": "Poet of the day",
+        "siteDescTitle": "Best site in the world",
+        "siteDescText": "This site was built with React-Bootstrap as a credit in \"User Interface Development\""
+    },
+    
+    "poets": {
+        "search": "Search",
+        "main": "Preview",
+        "bio": "Biography",
+        "photos": "Gallery",
+        "video": "Video",
+        "map": "Location"
+    }
+}
